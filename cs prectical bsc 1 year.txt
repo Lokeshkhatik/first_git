@@ -1,0 +1,47 @@
+1.  C Program to print hello .
+2.  C Program to declaring variable and printing it's value.
+3.  C Program to perform arthmetic operations.
+4.  C Program to calculate area & circumference of circle.
+5.  C Program to calculate area & perimeter of rectangle.
+6.  C Program to calculate area & perimeter of sqaure.
+7.  C Program to convert temperature from degree centigrade to fahrenheit.
+8.  C Program to swap of two number with using third variable.
+9.  C Program to swap of two number without using third variable.
+10. C Program for convert seconds to hour and minute.
+11. C Program for convert centimeter to meter and inche.
+12. C Program to compute simple and compound interest.
+13. C Program to check enter the no. is odd and even.
+14. C Program to check enter year is leap year or not.
+15. C Program to check enter char is vowal or consonent.
+16. C Program to find greatest in 3 no.
+17. C Program to create masksheet with 5 subject.Calculate percentage and declare the result.
+18. C Program to solve 2 order quadratic equations.
+19. C Program to print first ten natural numbers.
+20. C Program to print even number series.
+21. C Program to print odd number series.
+22. C Program to find factorial of number.
+23. C Program to print fibonacci series.
+24. C Program to print table of n and n square using pow() function.
+25. C Program to check given no is palindrome or not.
+26. C Program to check no is Armstrong and not with using function.
+27. C Program to check no is perfect and not using function.
+28. C Program to check given no is prime or not using function.
+29. C Program to calculate sum of digits.
+30. Write a c program using break and continue statements using loop.
+31. C Program to create read and print 1d array.
+32. C Program for linear search in 1d array.
+33. C Program to find largest and smallest element in 1d array.
+34. C Program for shorting the 1d array.
+35. C Program to read and print m*n matrix.
+36. C Program to addition,subtraction and multiplication of two matrix.
+37. C Program to print uper and lower diagonal matrix.
+38. C Program to transpose of a matrix.
+39. write A C program using recursion function.
+40. Swap two number using call by value in c program.
+41. Swap two number using vall by refence in c profram.
+42. Write A C program to access menbers of the structure.
+43. write A C program for Array of structure in c.
+44. Write A C program for structure and function.
+45. Write A C program to access members of the union. 
+
+  
